@@ -21,3 +21,10 @@ defaults:
   values:
     layout: page
 permalink: pretty
+
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - .gitignore
